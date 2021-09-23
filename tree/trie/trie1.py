@@ -2,7 +2,7 @@
 子节点用 list 实现
 """
 
-ALPHABETS = 26;
+ALPHABETS = 26
 
 class TrieNode:
     def __init__(self):
@@ -35,3 +35,19 @@ class Trie:
             if node_iter is None:
                 break
         return node_iter
+
+    def show(self):
+        word = []
+        self._dfs(self.root, word)
+
+    def _dfs(self, node, word):
+        if node.terminal:
+            print("".join(word))
+        for i in range(ALPHABETS):
+            if node.children[i] is None:
+                continue
+            nxt = node.children[i]
+            ch = chr(ord('a') + i)
+            word += ch
+            self.dfs(nxt, word)
+            word.pop()
