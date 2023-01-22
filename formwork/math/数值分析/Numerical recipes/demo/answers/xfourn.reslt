@@ -1,0 +1,11 @@
+Double 3-dimensional transform
+
+        Double transf.            Original data                Ratio
+      real         imag.        real         imag.        real         imag.
+
+     69.6169     302.8709      0.1360       0.5915      512.0000     512.0000
+    427.7071     298.3539      0.8354       0.5827      512.0000     512.0000
+    209.2508     347.1704      0.4087       0.6781      512.0000     512.0000
+    453.5649     221.7736      0.8859       0.4332      512.0000     512.0000
+
+The product of transform lengths is: 512

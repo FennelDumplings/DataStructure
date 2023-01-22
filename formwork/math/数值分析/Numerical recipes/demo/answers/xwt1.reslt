@@ -1,0 +1,52 @@
+Enter k (4, -4, 12, or 20) and frac (0.0 to 1.0):
+Termination when k=0
+k,NMAX,nused =     4  512   87
+discrepancy =  5.55112e-16
+
+Enter k (4, -4, 12, or 20) and frac (0.0 to 1.0):
+Termination when k=0
+k,NMAX,nused =     4  512   51
+discrepancy =  0.000940789
+
+Enter k (4, -4, 12, or 20) and frac (0.0 to 1.0):
+Termination when k=0
+k,NMAX,nused =     4  512   24
+discrepancy =    0.0248505
+
+Enter k (4, -4, 12, or 20) and frac (0.0 to 1.0):
+Termination when k=0
+k,NMAX,nused =     4  512   87
+discrepancy =  5.55112e-16
+
+Enter k (4, -4, 12, or 20) and frac (0.0 to 1.0):
+Termination when k=0
+k,NMAX,nused =     4  512   51
+discrepancy =  0.000940789
+
+Enter k (4, -4, 12, or 20) and frac (0.0 to 1.0):
+Termination when k=0
+k,NMAX,nused =     4  512   24
+discrepancy =    0.0248505
+
+Enter k (4, -4, 12, or 20) and frac (0.0 to 1.0):
+Termination when k=0
+k,NMAX,nused =    12  512   51
+discrepancy =   0.00326697
+
+Enter k (4, -4, 12, or 20) and frac (0.0 to 1.0):
+Termination when k=0
+k,NMAX,nused =    12  512   25
+discrepancy =    0.0556271
+
+Enter k (4, -4, 12, or 20) and frac (0.0 to 1.0):
+Termination when k=0
+k,NMAX,nused =    20  512   51
+discrepancy =   0.00800847
+
+Enter k (4, -4, 12, or 20) and frac (0.0 to 1.0):
+Termination when k=0
+k,NMAX,nused =    20  512   25
+discrepancy =    0.0660604
+
+Enter k (4, -4, 12, or 20) and frac (0.0 to 1.0):
+Termination when k=0

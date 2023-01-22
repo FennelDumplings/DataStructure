@@ -1,0 +1,26 @@
+Enter N (or 0 to stop):  
+  #         x(i)           w(i)
+  0       0.707107       1.570796
+  1      -0.707107       1.570796
+
+Check value:        -0.000000  should be:         0.000000
+Check value:         3.141593  should be:         3.141593
+
+Integral from gaujac:     3.371452
+Actual value:             3.371501
+
+Enter N (or 0 to stop):  
+  #         x(i)           w(i)
+  0       0.951057       0.628319
+  1       0.587785       0.628319
+  2       0.000000       0.628319
+  3      -0.587785       0.628319
+  4      -0.951057       0.628319
+
+Check value:        -0.000000  should be:         0.000000
+Check value:         3.141593  should be:         3.141593
+
+Integral from gaujac:     3.371501
+Actual value:             3.371501
+
+Enter N (or 0 to stop):  

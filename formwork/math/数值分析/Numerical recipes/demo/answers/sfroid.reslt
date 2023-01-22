@@ -1,0 +1,70 @@
+
+Enter m n
+
+Enter c**2 or 999 to end
+   Iter.     Error       FAC
+     0     0.271214    1.000000
+   Iter.     Error       FAC
+     1     0.080672    1.000000
+   Iter.     Error       FAC
+     2     0.006255    1.000000
+   Iter.     Error       FAC
+     3     0.000038    1.000000
+   Iter.     Error       FAC
+     4     0.000000    1.000000
+   Iter.     Error       FAC
+     5     0.000000    1.000000
+
+ m =   3  n =   5  c**2 =  16.000 lamda = 35.461008
+
+Enter c**2 or 999 to end
+   Iter.     Error       FAC
+     0     0.075809    1.000000
+   Iter.     Error       FAC
+     1     0.005048    1.000000
+   Iter.     Error       FAC
+     2     0.000024    1.000000
+   Iter.     Error       FAC
+     3     0.000000    1.000000
+   Iter.     Error       FAC
+     4     0.000000    1.000000
+
+ m =   3  n =   5  c**2 =  20.000 lamda = 36.771167
+
+Enter c**2 or 999 to end
+   Iter.     Error       FAC
+     0     0.517706    1.000000
+   Iter.     Error       FAC
+     1     0.835363    1.000000
+   Iter.     Error       FAC
+     2     0.375948    1.000000
+   Iter.     Error       FAC
+     3     0.172311    1.000000
+   Iter.     Error       FAC
+     4     0.020224    1.000000
+   Iter.     Error       FAC
+     5     0.000824    1.000000
+   Iter.     Error       FAC
+     6     0.000001    1.000000
+   Iter.     Error       FAC
+     7     0.000000    1.000000
+   Iter.     Error       FAC
+     8     0.000000    1.000000
+
+ m =   3  n =   5  c**2 = -16.000 lamda = 24.310977
+
+Enter c**2 or 999 to end
+   Iter.     Error       FAC
+     0     0.052213    1.000000
+   Iter.     Error       FAC
+     1     0.003543    1.000000
+   Iter.     Error       FAC
+     2     0.000022    1.000000
+   Iter.     Error       FAC
+     3     0.000000    1.000000
+   Iter.     Error       FAC
+     4     0.000000    1.000000
+
+ m =   3  n =   5  c**2 = -20.000 lamda = 22.893073
+
+Enter c**2 or 999 to end

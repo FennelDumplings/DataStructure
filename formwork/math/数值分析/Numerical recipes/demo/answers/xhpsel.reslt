@@ -1,0 +1,21 @@
+
+Input heap size (or 0 to end)
+heap[0], check=  99.83 99.83
+heap of numbers of size 1
+ 0   99.83
+
+Input heap size (or 0 to end)
+heap[0], check=  99.34 99.34
+heap of numbers of size 2
+ 0   99.34
+ 1   99.83
+
+Input heap size (or 0 to end)
+heap[0], check=  98.40 98.40
+heap of numbers of size 3
+ 0   98.40
+ 1   99.83
+ 2   99.34
+
+Input heap size (or 0 to end)
+Normal completion

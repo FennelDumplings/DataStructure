@@ -1,0 +1,15 @@
+         machar         numeric_limits 
+
+ibeta  = 2              2              
+it     = 53             53             
+irnd   = 5              round to nearest    
+ngrd   = 0              
+machep = -52            
+negep  = -53            
+iexp   = 11             
+minexp = -1022          -1022          
+maxexp = 1024           1024           
+eps    = 2.220446e-16   2.220446e-16   
+epsneg = 1.110223e-16   
+xmin   = 2.225074e-308  2.225074e-308  
+xmax   = 1.797693e+308  1.797693e+308  

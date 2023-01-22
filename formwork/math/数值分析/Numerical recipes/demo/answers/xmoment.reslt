@@ -1,0 +1,10 @@
+moments of a sinusoidal distribution
+
+                             calculated    expected
+
+Mean :                         1.5708       1.5708
+Average Deviation :            0.5704       0.5708
+Standard Deviation :           0.6833       0.6837
+Variance :                     0.4669       0.4674
+Skewness :                     0.0000       0.0000
+Kurtosis :                    -0.8090      -0.8062

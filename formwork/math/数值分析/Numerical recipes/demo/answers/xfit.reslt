@@ -1,0 +1,12 @@
+
+Ignoring standard deviations
+      a  =    1.079574       uncertainty:  0.099821
+      b  =   -2.006663       uncertainty:  0.017161
+      chi-squared:       24.047955
+      goodness-of-fit:    1.000000
+
+Including standard deviations
+      a  =    1.079574       uncertainty:  0.100755
+      b  =   -2.006663       uncertainty:  0.017321
+      chi-squared:       96.191819
+      goodness-of-fit:    0.532773

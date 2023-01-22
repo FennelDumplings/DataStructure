@@ -1,0 +1,30 @@
+
+month      day   year   julian day     event
+
+  december  31     -1   1721423  End of millennium
+   january   1      1   1721424  One day later
+   october   4   1582   2299160  Day before Gregorian calendar
+   october  15   1582   2299161  Gregorian calendar adopted
+   january  17   1706   2344180  Benjamin Franklin born
+     april  14   1865   2402341  Abraham Lincoln shot
+     april  18   1906   2417319  San Francisco earthquake
+       may   7   1915   2420625  Sinking of the Lusitania
+      july  20   1923   2423621  Pancho Villa assassinated
+       may  23   1934   2427581  Bonnie and Clyde eliminated
+      july  22   1934   2427641  John Dillinger shot
+     april   3   1936   2428262  Bruno Hauptman electrocuted
+       may   6   1937   2428660  Hindenburg disaster
+      july  26   1956   2435681  Sinking of the Andrea Doria
+      june   5   1976   2442935  Teton dam collapse
+       may  23   1968   2440000  Julian Day 2440000
+
+Your choices: (negative to end)
+month day year (e.g. 1 13 1905)
+
+mm dd yyyy ?
+julian day: 2440001
+
+mm dd yyyy ?
+julian day: 2445951
+
+mm dd yyyy ?

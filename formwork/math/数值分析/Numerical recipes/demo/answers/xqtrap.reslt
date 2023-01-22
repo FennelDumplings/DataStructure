@@ -1,0 +1,4 @@
+Integral of func computed with QTRAP
+
+Actual value of integral is    -0.479159
+Result from routine QTRAP is    -0.479159

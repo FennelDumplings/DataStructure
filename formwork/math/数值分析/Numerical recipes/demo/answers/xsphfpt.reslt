@@ -1,0 +1,14 @@
+
+input m,n,c-squared (n >= m, c=999 to end)
+    mu(m,n)
+   18.524504
+
+input m,n,c-squared (n >= m, c=999 to end)
+    mu(m,n)
+   17.473284
+
+input m,n,c-squared (n >= m, c=999 to end)
+    mu(m,n)
+   18.000000
+
+input m,n,c-squared (n >= m, c=999 to end)

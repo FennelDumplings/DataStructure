@@ -1,0 +1,41 @@
+IDUM = 
+Enter NDIM XOFF NCALL ITMAX NPRN (NDIM=0 to stop)
+ Input parameters for vegas  ndim=    4  ncall= 768.000000
+                               it=    0  itmx=    4
+                             nprn=    0  ALPH= 1.500000
+                              mds=    1  nd=   50
+                           x1[ 0]=    0.000000 xu[ 0]=    1.000000
+                           x1[ 1]=    0.000000 xu[ 1]=    1.000000
+                           x1[ 2]=    0.000000 xu[ 2]=    1.000000
+                           x1[ 3]=    0.000000 xu[ 3]=    1.000000
+ iteration no.   1 : integral =       0.077061 +/-  0.075885
+ all iterations:   integral =      0.077061+- 0.075885 chi**2/IT n = 0.000000
+ iteration no.   2 : integral =       0.023342 +/-  0.007514
+ all iterations:   integral =      0.023864+- 0.007478 chi**2/IT n = 0.496199
+ iteration no.   3 : integral =       0.042580 +/-  0.006643
+ all iterations:   integral =      0.034325+- 0.004966 chi**2/IT n = 1.998818
+ iteration no.   4 : integral =       0.060057 +/-  0.004627
+ all iterations:   integral =      0.048101+- 0.003385 chi**2/IT n = 6.123353
+Number of iterations performed: 4
+Integral, Standard Dev., Chi-sq. =      0.048101     0.003385     6.123353
+ Input parameters for vegas  ndim=    4  ncall= 768.000000
+                               it=    4  itmx=    4
+                             nprn=    0  ALPH= 1.500000
+                              mds=    1  nd=   50
+                           x1[ 0]=    0.000000 xu[ 0]=    1.000000
+                           x1[ 1]=    0.000000 xu[ 1]=    1.000000
+                           x1[ 2]=    0.000000 xu[ 2]=    1.000000
+                           x1[ 3]=    0.000000 xu[ 3]=    1.000000
+ iteration no.   1 : integral =       0.062949 +/-  0.002598
+ all iterations:   integral =      0.062949+- 0.002598 chi**2/IT n = 0.000000
+ iteration no.   2 : integral =       0.062915 +/-  0.002012
+ all iterations:   integral =      0.062928+- 0.001591 chi**2/IT n = 0.000107
+ iteration no.   3 : integral =       0.060662 +/-  0.001387
+ all iterations:   integral =      0.061641+- 0.001045 chi**2/IT n = 0.576401
+ iteration no.   4 : integral =       0.062907 +/-  0.001277
+ all iterations:   integral =      0.062148+- 0.000809 chi**2/IT n = 0.580385
+Additional iterations performed: 4
+Integral, Standard Dev., Chi-sq. =      0.062148     0.000809     0.580385
+
+Enter NDIM XOFF NCALL ITMAX NPRN (NDIM=0 to stop)
+Normal completion

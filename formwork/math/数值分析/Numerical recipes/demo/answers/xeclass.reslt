@@ -1,0 +1,8 @@
+
+Numbers from 0-14 divided according to
+their value modulo 4:
+
+Class  0:        0  4  8 12
+Class  1:        1  5  9 13
+Class  2:        2  6 10 14
+Class  3:        3  7 11

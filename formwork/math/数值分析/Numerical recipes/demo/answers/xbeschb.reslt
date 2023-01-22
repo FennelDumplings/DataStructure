@@ -1,0 +1,19 @@
+Enter x (magnitude < 0.5):
+    x
+           gam1             gam2             gampl           gammi
+          xgam1            xgam2            xgampl          xgammi
+1.00e-03
+   -5.772156e-01     9.999993e-01     1.000577e+00     9.994221e-01
+   -5.772156e-01     9.999993e-01     1.000577e+00     9.994221e-01
+
+
+Enter x (magnitude < 0.5):
+    x
+           gam1             gam2             gampl           gammi
+          xgam1            xgam2            xgampl          xgammi
+5.00e-01
+   -5.641896e-01     8.462844e-01     1.128379e+00     5.641896e-01
+   -5.641896e-01     8.462844e-01     1.128379e+00     5.641896e-01
+
+
+Enter x (magnitude < 0.5):

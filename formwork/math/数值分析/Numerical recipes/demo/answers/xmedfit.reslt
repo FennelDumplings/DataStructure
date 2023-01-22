@@ -1,0 +1,12 @@
+
+According to routine FIT the result is:
+   a =    1.0031   uncertainty:    0.0202
+   b =   -2.0012   uncertainty:    0.0035
+   chi-squared:   91.9298  for  100  points
+   goodness-of-fit:    0.6536
+
+According to routine MEDFIT the result is:
+   a =    1.0082
+   b =   -2.0011
+   absolute deviation (per data point):   0.0778
+   (note: gaussian SPREAD is   0.1000)

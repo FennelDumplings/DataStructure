@@ -1,0 +1,26 @@
+Enter N (or 0 to stop): 
+  #         x(i)           w(i)
+  0       0.766880       0.094615
+  1       0.368997       0.391980
+  2       0.063891       0.513405
+
+Check value:     1.000000 should be:     1.000000
+
+Integral from orthog:     0.693050
+Actual value:             0.693147
+
+Enter N (or 0 to stop): 
+  #         x(i)           w(i)
+  0       0.922669       0.010169
+  1       0.756915       0.055455
+  2       0.538657       0.142009
+  3       0.314020       0.245317
+  4       0.129583       0.308287
+  5       0.021634       0.238764
+
+Check value:     1.000000 should be:     1.000000
+
+Integral from orthog:     0.693147
+Actual value:             0.693147
+
+Enter N (or 0 to stop): 

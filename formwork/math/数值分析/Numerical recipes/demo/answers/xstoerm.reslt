@@ -1,0 +1,26 @@
+Stoermer's Rule:
+
+x=0.000000 to 1.570796 in  5 steps
+   integration   answers
+    2.583344     2.570796
+    0.460868     0.467400
+
+x=0.000000 to 1.570796 in 15 steps
+   integration   answers
+    2.572169     2.570796
+    0.466682     0.467400
+
+x=0.000000 to 1.570796 in 25 steps
+   integration   answers
+    2.571290     2.570796
+    0.467142     0.467400
+
+x=0.000000 to 1.570796 in 35 steps
+   integration   answers
+    2.571048     2.570796
+    0.467269     0.467400
+
+x=0.000000 to 1.570796 in 45 steps
+   integration   answers
+    2.570948     2.570796
+    0.467321     0.467400

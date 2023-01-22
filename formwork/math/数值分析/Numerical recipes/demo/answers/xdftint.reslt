@@ -1,0 +1,12 @@
+input c,d:
+input a,b (or a=b to end):
+
+  Omega  Integral cosine*(test func)    Err    Integral sine*(test func)   Err
+
+input w (or < 0 to end):
+  0.000000       -0.920731            0.000009        0.000000         0.000000
+input w (or < 0 to end):
+  1.900000        0.800038           -0.000008       -2.268356         0.000024
+input w (or < 0 to end):
+  2.100000        1.765126           -0.000019       -1.512975         0.000015
+input w (or < 0 to end):

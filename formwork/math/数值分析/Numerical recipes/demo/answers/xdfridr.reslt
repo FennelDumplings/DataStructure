@@ -1,0 +1,17 @@
+input x, h (h=0.0 to stop):
+     dfridr      actual       error
+    1.000000    1.000000    0.000000
+
+input x, h (h=0.0 to stop):
+     dfridr      actual       error
+    3.425519    3.425519    0.000000
+
+input x, h (h=0.0 to stop):
+     dfridr      actual       error
+    3.425519    3.425519    0.000000
+
+input x, h (h=0.0 to stop):
+     dfridr      actual       error
+  199.850045  199.850045    0.000000
+
+input x, h (h=0.0 to stop):
